@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Code snippets in a blog post
+published: false
 categories: [HTML,Code]
 ---
 

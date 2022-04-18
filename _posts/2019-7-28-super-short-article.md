@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some articles are just so short that we've to make the footer stick
+published: false
 categories: Miscellaneous
 ---
 
